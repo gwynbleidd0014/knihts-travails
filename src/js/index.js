@@ -1,1 +1,4 @@
-document.querySelector("body").style.background = "red";
+import "../css/style.css";
+import { drawGrid, loadUi } from "./dom.js";
+
+loadUi();
