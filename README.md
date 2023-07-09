@@ -1,6 +1,6 @@
 # Knights Travails
 
-# Odin Project - weather app challange
+# Odin Project - Knight travails challange
 
 This is a solution to Odin Projects Knights travails challange
 
