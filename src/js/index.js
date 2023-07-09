@@ -1,4 +1,4 @@
 import "../css/style.css";
-import { drawGrid, loadUi } from "./dom.js";
+import { loadUi } from "./dom.js";
 
 loadUi();

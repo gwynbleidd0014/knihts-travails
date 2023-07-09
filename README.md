@@ -22,7 +22,7 @@ Simple app that shows shortest path from one point to another, in this case knig
 
 ### Links
 
-[Click to view live site](https://gwynbleidd0014.github.io/Weather-app/)
+[Click to view live site](https://gwynbleidd0014.github.io/knihts-travails/)
 
 ## Learned
 

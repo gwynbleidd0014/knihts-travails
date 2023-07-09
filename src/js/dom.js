@@ -35,12 +35,6 @@ function drawGrid(boardEl, n) {
   }
 }
 
-function updateEventListenersOnMultypleElements(type, elements, fn) {
-  elements.forEach((element) => {
-    element.addEventListener(type, fn);
-  });
-}
-
 function placeKnight(e) {
   e.target.parentElement.classList.add("knight");
   startPos = e.target.parentElement.dataset.pos;
